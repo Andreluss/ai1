@@ -15,7 +15,8 @@ class State:
 # dalkfjsdlkgjslsdkfj skdjf dlkfj sdkfj lsdkjflskdjflkjsd
 # dlskfksdjf
 class Move:
-    pass
+    def __init__(self):
+        pass
 
 max_depth = 4
 def minmax(state, depth):
