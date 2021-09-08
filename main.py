@@ -25,4 +25,8 @@ def minmax(state, depth):
     for move in state.possible_moves():
         value = max(value, 1-minmax(state.next_state(move), depth+1))
     return value
-        
+# lksdjflksjdfl kjsdfl kdsjflkdsjlkfjsdlkfj lkdsjfl sd
+# kjdfiajdoifjs dfoisjdko fi
+# ijoifjoifsjiossf[isfidsf
+# zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+# zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
