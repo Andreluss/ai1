@@ -15,8 +15,8 @@ class State:
 # dalkfjsdlkgjslsdkfj skdjf dlkfj sdkfj lsdkjflskdjflkjsd
 # dlskfksdjf
 class Move:
-    pass
-#sdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffsfddddddddddddddddddddddddddddddddd
+    pass #p  ass
+
 max_depth = 4
 def minmax(state, depth):
     if depth == max_depth:
